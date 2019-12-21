@@ -4,9 +4,11 @@ new_hash = {}
 
 end
 
-def actor
+def actor(name)
 
+actor = {:name => "joey"}
 
+actor[:name]
 
 end
 
