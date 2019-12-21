@@ -6,7 +6,7 @@ end
 
 def actor(name)
 
-actor = {:name => "Dwayne The Rock Johnson"}
+actor = {:name => 'Dwayne The Rock Johnson'}
 
 actor[:name]
 
